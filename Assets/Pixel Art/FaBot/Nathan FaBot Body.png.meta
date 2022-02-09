@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 1e64596c19f66e2468dbb48444f7257e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6041288273517424365
+    second: Nathan FaBot Body_0
+  - first:
+      213: 1871263999445368934
+    second: Nathan FaBot Body_1
+  - first:
+      213: 8128526544027918970
+    second: Nathan FaBot Body_2
+  - first:
+      213: -7067107924848700581
+    second: Nathan FaBot Body_3
+  - first:
+      213: -837977372832901242
+    second: Nathan FaBot Body_6
+  - first:
+      213: 463420628929460736
+    second: Nathan FaBot Body_6
+  - first:
+      213: -1528517383568156116
+    second: Nathan FaBot Body_6
+  - first:
+      213: 389671640785326247
+    second: Nathan FaBot Body_7
+  - first:
+      213: 5823449577694411183
+    second: Nathan FaBot Body_8
+  - first:
+      213: -3009026739925759324
+    second: Nathan FaBot Body_9
+  - first:
+      213: -7718301687830355397
+    second: Nathan FaBot Body_10
+  - first:
+      213: 4393372166001084359
+    second: Nathan FaBot Body_11
+  - first:
+      213: 5454276475937281751
+    second: Nathan FaBot Body_12
+  - first:
+      213: 8050678966402546728
+    second: Nathan FaBot Body_13
+  - first:
+      213: -1694732908906400323
+    second: Nathan FaBot Body_14
+  - first:
+      213: -2604116946384667417
+    second: Nathan FaBot Body_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nathan FaBot Body_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1576
+        width: 304
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee2db83da7f6d350800000000000000
+      internalID: 6041288273517424365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan FaBot Body_1
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1576
+        width: 304
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6600bef61b018f910800000000000000
+      internalID: 1871263999445368934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan FaBot Body_2
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1576
+        width: 304
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a722e1433d35ec070800000000000000
+      internalID: 8128526544027918970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan FaBot Body_3
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1576
+        width: 304
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b539b0619c69ced90800000000000000
+      internalID: -7067107924848700581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan FaBot Body_5
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1064
+        width: 304
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00abde05b966e6600800000000000000
+      internalID: 463420628929460736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan FaBot Body_6
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1064
+        width: 304
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a196fb98d99cae0800000000000000
+      internalID: -1528517383568156116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan FaBot Body_7
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1064
+        width: 304
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a09d00fa44686500800000000000000
+      internalID: 389671640785326247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan FaBot Body_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 552
+        width: 304
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9bfd5798c01d050800000000000000
+      internalID: 5823449577694411183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan FaBot Body_9
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 552
+        width: 304
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aac21f5f1acd36d0800000000000000
+      internalID: -3009026739925759324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan FaBot Body_10
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 552
+        width: 304
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32e29b128513e490800000000000000
+      internalID: -7718301687830355397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan FaBot Body_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 40
+        width: 304
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6d20f8e8b71bb40800000000000000
+      internalID: 5454276475937281751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan FaBot Body_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1064
+        width: 304
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687da7ae408ee54f0800000000000000
+      internalID: -837977372832901242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan FaBot Body_11
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 552
+        width: 304
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7459835b468fc30800000000000000
+      internalID: 4393372166001084359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan FaBot Body_13
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 40
+        width: 304
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cf1299dd1c9bf60800000000000000
+      internalID: 8050678966402546728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan FaBot Body_14
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 40
+        width: 304
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5387ff5691b78e0800000000000000
+      internalID: -1694732908906400323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nathan FaBot Body_15
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 40
+        width: 304
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecba293f615cdbd0800000000000000
+      internalID: -2604116946384667417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

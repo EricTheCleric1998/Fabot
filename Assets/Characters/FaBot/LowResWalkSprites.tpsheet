@@ -1,0 +1,23 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:243fc749b73e5128984843b60c6b3d74:36013268919a9d9745c9002275c3a7cb:26c22cc915e44adec6479bd2f19622a0$
+#
+:format=40300
+:texture=LowResWalkSprites.png
+:size=256x512
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+dn_lft_walk_fabot;1;395;116;116; 0.5;0.5; 0;0;0;0; 4;116;0;0;0;0;116;116;116; 2;1;2;3;0;1;3
+dn_rt_walk_fabot;119;395;116;116; 0.5;0.5; 0;0;0;0; 4;116;0;0;0;0;116;116;116; 2;1;2;3;0;1;3
+dn_walk_fabot;1;277;116;116; 0.5;0.5; 0;0;0;0; 4;116;0;0;0;0;116;116;116; 2;1;2;3;0;1;3
+lft_walk_fabot;119;277;116;116; 0.5;0.5; 0;0;0;0; 4;116;0;0;0;0;116;116;116; 2;1;2;3;0;1;3
+rt_walk_fabot;1;159;116;116; 0.5;0.5; 0;0;0;0; 4;116;0;0;0;0;116;116;116; 2;1;2;3;0;1;3
+up_lft_walk_fabot;119;159;116;116; 0.5;0.5; 0;0;0;0; 4;116;0;0;0;0;116;116;116; 2;1;2;3;0;1;3
+up_rt_walk_fabot;1;41;116;116; 0.5;0.5; 0;0;0;0; 4;116;0;0;0;0;116;116;116; 2;1;2;3;0;1;3
+up_walk_fabot;119;41;116;116; 0.5;0.5; 0;0;0;0; 4;116;0;0;0;0;116;116;116; 2;1;2;3;0;1;3

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rocket Pieces
+  - Whetzel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Lit Background
+  - Background Effects
+  - Enemies
+  - Collectibles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 608711633
+    locked: 0
+  - name: Lit Background
+    uniqueID: 1227272577
+    locked: 0
+  - name: Background Effects
+    uniqueID: 4215197121
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemies
+    uniqueID: 3876297581
+    locked: 0
+  - name: Collectibles
+    uniqueID: 3282940871
+    locked: 0
+  - name: Player
+    uniqueID: 2073051791
+    locked: 0
